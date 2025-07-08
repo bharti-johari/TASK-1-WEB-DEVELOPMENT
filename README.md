@@ -33,3 +33,10 @@ This project is a beginner-level web development task completed during my intern
 Intern @ Apex Planet Pvt.Ltd. 
 BTech CSE (AI & ML) | Sanskriti University  
 Web Development Enthusiast
+
+## 📸 Screenshots
+### 🔹 Webpage - Top Section
+![Webpage Top](The%20first%20section%20of%20webpage(introduction).png)
+
+### 🔹 Webpage - Bottom Section
+![Webpage Bottom](The%20bottom%20section(skills%20and%20button).png)
